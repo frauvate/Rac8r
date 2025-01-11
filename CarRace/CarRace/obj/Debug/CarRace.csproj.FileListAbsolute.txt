@@ -1,0 +1,10 @@
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.Properties.Resources.resources
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.csproj.GenerateResource.cache
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\esmaa\OneDrive\Belgeler\CarRace\CarRace\obj\Debug\CarRace.pdb
